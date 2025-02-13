@@ -50,7 +50,7 @@ function Trending() {
             </div>
             <div className="slider-container container-section gap-x-4">
                 <Slider {...settings}>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={Tprotector} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
@@ -59,7 +59,7 @@ function Trending() {
                             <span className='text-bold'>$39.99</span>
                         </div>
                     </div>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={lightswitch} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
@@ -68,7 +68,7 @@ function Trending() {
                             <span className='text-bold'>$49.99</span>
                         </div>
                     </div>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={buds} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
@@ -80,7 +80,7 @@ function Trending() {
                             </div>
                         </div>
                     </div>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={headphone} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
@@ -92,7 +92,7 @@ function Trending() {
                             </div>
                         </div>
                     </div>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={wirelesscharger} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
@@ -104,7 +104,7 @@ function Trending() {
                             </div>
                         </div>
                     </div>
-                    <div className=' w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
+                    <div className='w-[330px] h-auto border-2 border-solid rounded-2xl max-lg:hidden' style={{ borderColor: "var(--border-line)" }}>
                         <div className='' >
                             <img src={wirelesschargerapple} alt="" className='h-[311px] w-[311px] object-cover object-center' />
                         </div>
