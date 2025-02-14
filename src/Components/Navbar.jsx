@@ -1,5 +1,4 @@
 import React from 'react'
-import NavLogo from '../assets/NavLogo.png'
 import { Link } from 'react-router-dom'
 import { IoSearch } from "react-icons/io5";
 import { RxPerson } from "react-icons/rx";
@@ -17,7 +16,7 @@ const Navbar = () => {
                     <IoReorderThreeOutline />
                 </div>
                 <div className=''>
-                    <img src={NavLogo} alt="Image" />
+                    <h1 className='text-3xl font-semibold'>ElectroHub</h1>
                 </div>
                 <div>
                     <nav className='max-lg:hidden'>
