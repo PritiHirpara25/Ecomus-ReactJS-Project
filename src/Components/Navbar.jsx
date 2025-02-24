@@ -17,7 +17,7 @@ const Navbar = () => {
                     <IoReorderThreeOutline />
                 </div>
                 <div className=''>
-                    <img src={NavLogo} alt="Image" />
+                    {/* <img src={NavLogo} alt="Image" /> */}
                 </div>
                 <div>
                     <nav className='max-lg:hidden'>
