@@ -1,5 +1,4 @@
 import React from 'react'
-import NavLogo from '../assets/asset 1.svg'
 import { Link } from 'react-router-dom'
 import { IoSearch } from "react-icons/io5";
 import { RxPerson } from "react-icons/rx";
@@ -17,7 +16,11 @@ const Navbar = () => {
                     <IoReorderThreeOutline />
                 </div>
                 <div className=''>
+<<<<<<< HEAD
                     {/* <img src={NavLogo} alt="Image" /> */}
+=======
+                    <h1 className='text-3xl font-semibold'>ElectroHub</h1>
+>>>>>>> d406910d0034d189fb750d3ce42b4ce8aaabaf81
                 </div>
                 <div>
                     <nav className='max-lg:hidden'>
@@ -25,7 +28,6 @@ const Navbar = () => {
                             <li><Link to="/">Home
                                 <div class="bg-black h-[2px] w-0 group-hover:w-full transition-all duration-500"></div>
                             </Link></li>
-                            <li><Link to="/shop">Shop</Link></li>
                             <li><Link to="/products">Products</Link></li>
                             <li className='relative group'>
                                 <Link to="/#" className='flex'>

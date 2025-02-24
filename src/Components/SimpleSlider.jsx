@@ -35,7 +35,7 @@ function SimpleSlider() {
               <div className="absolute top-40 left-[60px] max-lg:top-14 max-md:top-3 max-sm:-top-6 max-sm:left-5">
                 <p className="text-xl max-md:hidden">UP TO 40% OFF CHARGERS AND MORE.</p>
                 <h1 className="text-7xl pt-10 max-lg:text-5xl max-md:text-4xl max-sm:text-2xl">Modern design</h1>
-                <button className="bg-black text-white rounded-full px-6 py-2 text-lg flex items-center mt-10 max-md:text-sm max-sm:mt-6 butn__new butn">Shop collection <div className=""><MdKeyboardArrowRight /></div></button>
+                <button className="bg-black text-white rounded-full px-6 py-2 text-lg flex items-center mt-10 max-md:text-sm max-sm:mt-6">Shop collection <div className=""><MdKeyboardArrowRight /></div></button>
               </div>
             </div>
             <div className="relative ">
@@ -47,16 +47,6 @@ function SimpleSlider() {
               </div>
             </div>
           </Slider>
-          {/* <div style={{ backgroundColor: 'var(--primary-color)' }} className="w-full -mt-2">
-            <div className="call-to-action flex items-center h-16 uppercase text-xs text-600 ">
-              <p>free shipping and return</p>
-              <IoMdArrowDropup className="flex items-center" />
-              <p>new season,new styles:fashion sale you can't miss</p>
-              <IoMdArrowDropup className="flex items-center" />
-              <p>limited time offer:fashion sale you can't resist</p>
-              <IoMdArrowDropup className="flex items-center" />
-            </div>
-          </div> */}
         </div>
       </div>
     );
