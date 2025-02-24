@@ -1,4 +1,4 @@
-import React , {useState} from 'react'
+import React, { useState } from 'react'
 import Allinnerbanner from '../PageHelpers/Allinnerbanner'
 import Footerwhite from '../Components/Footerwhite'
 
@@ -16,8 +16,8 @@ const Shop = () => {
         <Allinnerbanner title="New Arrival" Breadcrumbs="Shop through our latest selection of Fashion" />
       </div>
 
-    <div>
-    </div>
+      <div>
+      </div>
 
 
       <div className='mt-12'>
